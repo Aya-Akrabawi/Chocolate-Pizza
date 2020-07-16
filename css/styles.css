@@ -1,3 +1,24 @@
+.logo {
+    display: flex;
+}
+
+.logoImg {
+    height: 7%;
+}
+h1 {
+    margin: 0.5%;
+    font-size: 170%;
+}
+p {
+    font-size: 53%;
+    margin: 1%;
+    width: 100%;    
+}
+body {
+    width: 100%;
+}
+
+
 table{
     margin-top: -100px;
 }
