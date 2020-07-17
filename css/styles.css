@@ -1,0 +1,103 @@
+body{
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+.deli{
+    position: absolute;
+    top: 40px;
+    font-size: 24px;
+    margin:3px 3px ;
+    font-family:  'Yellowtail', cursive;
+}
+.best{
+    font-size: 7px;
+}
+#right{
+    float: right;
+}
+#leftMargin{
+    margin-left: 10px;
+}
+.print{
+    float: right;
+}
+.mainHead{
+    font-family: 'Roboto', sans-serif;
+}
+#date{
+    color: rgb(196, 193, 193);
+    position: relative;
+    top: -30px;
+}
+.para{
+    padding-top: 30px;
+    padding-left: 60px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+.list{
+    position: relative;
+    padding-left: 10%;
+}
+.colum1{
+    position: relative;
+    top: -300px;
+    padding: 0px 210px;
+
+}
+.colum2{
+    position: relative;
+    top: -300px;
+    padding: 0px 100px;
+
+}
+.vensImg{
+    position: relative;
+    top: -205px;
+    left: 180px;
+}
+#name{
+    position: relative;
+    top: -250px;
+    left: 180px;
+    font-weight: 600;
+}
+.vinsThings{
+    position: relative;
+    top: -260px;
+    left: 255px;
+}
+#share{
+    position: relative;
+    top: -330px;
+    left: 900px;
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(204, 84, 84);
+    color: silver;
+    border: unset;
+}
+#vinsThings2{
+    position: relative;
+    bottom: 270px;
+    left: 260px;
+}
+.footerLogo{
+    position: relative;
+    bottom: 225px;
+    left: 50%;
+}
+#footerWords{
+    position: relative;
+    bottom: 200px;
+    left: 43%;
+    color: silver;
+}
+.footerWords2{
+    position: relative;
+    bottom: 200px;
+    left: 45%;
+    color: silver;
+}
